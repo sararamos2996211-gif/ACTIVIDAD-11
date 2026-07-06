@@ -1,0 +1,10 @@
+PREGUNTAS Y RESPUESTAS#8
+
+EXPLICAR AUTENTICACION
+
+El login es el proceso que permite identificar a un usuario para ingresar a una aplicación.
+Sirve para verificar que la persona tenga permiso para acceder.
+Algunas rutas deben estar protegidas porque contienen información o funciones privadas.
+Esto evita que personas no autorizadas puedan ver o modificar datos.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones ni claves de acceso.
+Así se protege la privacidad y la seguridad de los usuarios y de la comunidad.

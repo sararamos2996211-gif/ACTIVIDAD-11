@@ -1,0 +1,27 @@
+PREGUNTA #7
+
+DISEÑAR MODELO DE DATOS SIMPLES
+
+Entidad: Causa
+
+Campos principales:
+
+id
+título
+descripción
+fecha
+
+Propósito de la información:
+Guardar las causas comunitarias que se publican para que las personas puedan conocerlas y apoyarlas.
+
+Entidad: Apoyo
+
+Campos principales:
+
+id
+causa_id
+usuario
+fecha
+
+Propósito de la información:
+Registrar los apoyos que recibe cada causa y llevar un control de la participación de los usuarios.

@@ -1,0 +1,5 @@
+PREGUNTA Y RESPUESTA #9 
+
+EXPLICAR LA INTERFAZ BASICA
+
+La interfaz tendría un formulario para crear una nueva causa con campos como título, descripción y fecha. También mostraría una lista con las causas disponibles para que los usuarios puedan leerlas. Cada causa tendría un botón para apoyar la iniciativa y un contador que indique cuántos apoyos ha recibido. La interfaz sería sencilla, organizada y no mostraría información privada de los usuarios.
